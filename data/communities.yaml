@@ -44,16 +44,6 @@
   added: 2026-05-23
   verified: 2026-05-23
 
-- name: Water & Music Community
-  url: https://newsletter.waterandmusic.com/
-  description: "Research network and Discord community focused on the intersection of music, technology, and business, run by Cherie Hu. Industry-oriented with analysis of music-tech trends."
-  source_type: community
-  region: global
-  topics: [general-mir]
-  people: [Cherie Hu]
-  added: 2026-05-23
-  verified: 2026-05-23
-
 - name: WIMIR
   url: https://wimir.wordpress.com/
   description: "Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference."

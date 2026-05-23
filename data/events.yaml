@@ -96,12 +96,23 @@
   verified: 2026-05-23
 
 - name: Munich Music Labs
-  url: https://munichmusiclabs.com/
+  url: https://lu.ma/munichmusiclabs
   description: "Student initiative at TU Munich bridging AI and music through monthly Knowledge Sharing Sessions, the annual HACKATUNE hackathon, and community events for students and practitioners."
   source_type: community
   event_type: meetup
   region: europe
   location: Munich, Germany
   recurrence: monthly
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: Water & Music
+  url: https://lu.ma/water-and-music
+  description: "Event series by Cherie Hu at the intersection of music, technology, and business. Covers streaming economics, generative AI, and music-tech strategy."
+  source_type: media
+  event_type: meetup
+  region: global
+  topics: [general-mir]
+  people: [Cherie Hu]
   added: 2026-05-23
   verified: 2026-05-23
