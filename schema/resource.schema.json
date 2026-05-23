@@ -1,0 +1,162 @@
+{
+  "$defs": {
+    "EventType": {
+      "enum": [
+        "meetup",
+        "conference",
+        "festival",
+        "hackathon"
+      ],
+      "title": "EventType",
+      "type": "string"
+    },
+    "Recurrence": {
+      "enum": [
+        "monthly",
+        "quarterly",
+        "annual",
+        "ad-hoc"
+      ],
+      "title": "Recurrence",
+      "type": "string"
+    },
+    "Region": {
+      "enum": [
+        "europe",
+        "north-america",
+        "asia-pacific",
+        "global"
+      ],
+      "title": "Region",
+      "type": "string"
+    },
+    "SourceType": {
+      "enum": [
+        "academic",
+        "industry",
+        "community",
+        "media"
+      ],
+      "title": "SourceType",
+      "type": "string"
+    },
+    "Topic": {
+      "enum": [
+        "general-mir",
+        "generation",
+        "separation",
+        "recommendation",
+        "transcription",
+        "synthesis",
+        "analysis",
+        "performance"
+      ],
+      "title": "Topic",
+      "type": "string"
+    }
+  },
+  "description": "A single entry in the MIR Guide catalog.",
+  "properties": {
+    "name": {
+      "title": "Name",
+      "type": "string"
+    },
+    "url": {
+      "format": "uri",
+      "maxLength": 2083,
+      "minLength": 1,
+      "title": "Url",
+      "type": "string"
+    },
+    "description": {
+      "maxLength": 400,
+      "minLength": 10,
+      "title": "Description",
+      "type": "string"
+    },
+    "source_type": {
+      "$ref": "#/$defs/SourceType"
+    },
+    "added": {
+      "format": "date",
+      "title": "Added",
+      "type": "string"
+    },
+    "verified": {
+      "format": "date",
+      "title": "Verified",
+      "type": "string"
+    },
+    "region": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Region"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    },
+    "topics": {
+      "default": [],
+      "items": {
+        "$ref": "#/$defs/Topic"
+      },
+      "title": "Topics",
+      "type": "array"
+    },
+    "people": {
+      "default": [],
+      "items": {
+        "type": "string"
+      },
+      "title": "People",
+      "type": "array"
+    },
+    "event_type": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/EventType"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    },
+    "recurrence": {
+      "anyOf": [
+        {
+          "$ref": "#/$defs/Recurrence"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null
+    },
+    "location": {
+      "anyOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "null"
+        }
+      ],
+      "default": null,
+      "title": "Location"
+    }
+  },
+  "required": [
+    "name",
+    "url",
+    "description",
+    "source_type",
+    "added",
+    "verified"
+  ],
+  "title": "Resource",
+  "type": "object"
+}
