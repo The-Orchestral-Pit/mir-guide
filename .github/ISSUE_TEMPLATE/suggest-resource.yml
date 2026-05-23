@@ -1,0 +1,95 @@
+name: Suggest a resource
+description: Propose a new entry for MIR Guide.
+labels: [suggestion]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before submitting, check that the resource isn't already listed in `data/*.yaml` and meets the [inclusion criteria](../../CONTRIBUTING.md#inclusion-criteria).
+
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: "e.g. Music Perception Journal"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "1–2 sentences, neutral tone, 400 characters max. What is it and who is it for?"
+      placeholder: "Peer-reviewed journal publishing research on the psychology and neuroscience of music perception and cognition."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: source_type
+    attributes:
+      label: Source type
+      options:
+        - academic
+        - industry
+        - community
+        - media
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: Which data file does this belong in?
+      options:
+        - communities
+        - events
+        - labs
+        - newsletters
+        - podcasts
+        - blogs
+        - learning
+        - related-lists
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: topics
+    attributes:
+      label: Topics
+      options:
+        - label: general-mir
+        - label: analysis
+        - label: generation
+        - label: recommendation
+        - label: separation
+        - label: synthesis
+        - label: transcription
+        - label: performance
+
+  - type: input
+    id: people
+    attributes:
+      label: People (optional)
+      description: Key people associated with this resource.
+      placeholder: "Firstname Lastname, Firstname Lastname"
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The URL resolves and points to the correct page.
+          required: true
+        - label: The resource has been active in the last 6 months (or 2 years for labs).
+          required: true
+        - label: The description contains no marketing language.
+          required: true
