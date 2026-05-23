@@ -6,9 +6,8 @@
 {% endmacro -%}
 # MIR Guide — A community map for Music Information Retrieval
 
-An opinionated guide to the people, labs, communities, and events shaping Music Information Retrieval.
-<!-- TODO: replace theorchestralpit.com with live URL -->
-Maintained as part of [The Orchestral Pit](https://theorchestralpit.com).
+A community map of the people, labs, communities, and events shaping Music Information Retrieval.
+Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on X ([@theOrchestralPit](https://x.com/theOrchestralPit)).
 
 ## What this is
 
