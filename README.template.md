@@ -7,7 +7,7 @@
 # MIR Guide — A community map for Music Information Retrieval
 
 A community map of the people, labs, communities, and events shaping Music Information Retrieval.
-Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on X ([@theOrchestralPit](https://x.com/theOrchestralPit)).
+Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on Twitter/X ([@theOrchestralPit](https://x.com/theOrchestralPit)).
 
 ## What this is
 
