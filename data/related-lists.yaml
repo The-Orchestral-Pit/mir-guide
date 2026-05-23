@@ -1,0 +1,71 @@
+- name: ai-audio-datasets-list
+  url: https://github.com/AMAAI-Lab/ai-audio-datasets-list
+  description: "Curated index of datasets for audio and music AI research, maintained by the AMAAI Lab at SUTD."
+  source_type: community
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: ai-audio-startups
+  url: https://github.com/csteinmetz1/ai-audio-startups
+  description: "Directory of startups building AI-powered audio and music products, maintained by Christian Steinmetz. Cross-reference for the startup ecosystem."
+  source_type: community
+  topics: [general-mir, generation]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: audio-ai-timeline
+  url: https://github.com/archinetai/audio-ai-timeline
+  description: "Chronological log of notable audio AI model releases and research milestones, useful for tracking how the field has evolved."
+  source_type: community
+  topics: [general-mir, generation]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: audio-development-tools
+  url: https://github.com/Yuan-ManX/audio-development-tools
+  description: "Aggregated list of open-source libraries, frameworks, and tools for audio software development and research."
+  source_type: community
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: awesome-ai-music-generation
+  url: https://github.com/Curated-Awesome-Lists/awesome-ai-music-generation
+  description: "Curated collection of papers, models, and tools focused specifically on AI-driven music generation."
+  source_type: community
+  topics: [generation]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: awesome-deep-learning-music
+  url: https://github.com/ybayle/awesome-deep-learning-music
+  description: "Survey of deep learning papers and resources applied to music, maintained by Yann Bayle."
+  source_type: community
+  topics: [general-mir, analysis]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: awesome-music-informatics
+  url: https://github.com/yamathcy/awesome-music-informatics
+  description: "Comprehensive list of MIR libraries, datasets, papers, and tools — the primary cross-reference for papers and software not covered in this guide."
+  source_type: community
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: awesome-python-scientific-audio
+  url: https://github.com/faroit/awesome-python-scientific-audio
+  description: "Curated list of Python libraries for scientific audio processing and music information retrieval, maintained by Fabian-Robert Stöter."
+  source_type: community
+  topics: [general-mir, analysis]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: multimodal-ml-music
+  url: https://github.com/ilaria-manco/multimodal-ml-music
+  description: "Reading list for multimodal machine learning applied to music, covering cross-modal retrieval, captioning, and generation."
+  source_type: community
+  topics: [general-mir, analysis]
+  added: 2026-05-23
+  verified: 2026-05-23

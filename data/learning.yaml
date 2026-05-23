@@ -1,0 +1,70 @@
+- name: Audio Content Analysis (audiocontentanalysis.org)
+  url: https://www.audiocontentanalysis.org/
+  description: "Open textbook and dataset hub by Alexander Lerch covering audio content analysis, feature extraction, and music information retrieval with accompanying code and data."
+  source_type: academic
+  topics: [general-mir, analysis]
+  people: [Alexander Lerch]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: Audio Signal Processing for Music Applications
+  url: https://www.coursera.org/learn/audio-signal-processing
+  description: "Coursera course by Xavier Serra (UPF/MTG) and Juan Pablo Bello (NYU) covering audio signal processing fundamentals with applications to music analysis and synthesis."
+  source_type: academic
+  topics: [general-mir, analysis]
+  people: [Xavier Serra, Juan Pablo Bello]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: FMP Notebooks — Fundamentals of Music Processing
+  url: https://www.audiolabs-erlangen.de/FMP
+  description: "Interactive Jupyter notebooks by Meinard Müller accompanying the Fundamentals of Music Processing textbook. Covers audio features, structure analysis, rhythm, harmony, and source separation."
+  source_type: academic
+  topics: [general-mir, analysis, separation]
+  people: [Meinard Müller]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: intro2ddsp
+  url: https://intro2ddsp.github.io/
+  description: "Online tutorial by Ben Hayes introducing differentiable digital signal processing, covering the principles and practical applications of gradient-based DSP in music and audio."
+  source_type: academic
+  topics: [synthesis, analysis]
+  people: [Ben Hayes]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: ISMIR Tutorials Archive
+  url: https://ismir.net/resources/tutorials/
+  description: "Archive of tutorials presented at the annual ISMIR conference, spanning MIR fundamentals to advanced topics in deep learning, evaluation, and multimodal music understanding."
+  source_type: academic
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: KAIST CTP431 — Fundamentals of Computer Music
+  url: https://mac.kaist.ac.kr/~juhan/ctp431/index.html
+  description: "Open course materials by Juhan Nam (KAIST) covering music signal processing, MIDI, synthesis, and machine learning for music. A foundational resource for the GCT634 graduate course."
+  source_type: academic
+  topics: [general-mir, analysis]
+  people: [Juhan Nam]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: musicinformationretrieval.com
+  url: https://musicinformationretrieval.com/
+  description: "Interactive Jupyter notebooks by Iran Roman (CCRMA) covering core MIR topics including feature extraction, beat tracking, chord recognition, and source separation."
+  source_type: academic
+  topics: [general-mir, analysis]
+  people: [Iran Roman]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: The Sound of AI YouTube
+  url: https://thesoundofai.com/
+  description: "YouTube tutorial series by Valerio Velardo covering deep learning for audio, audio signal processing for machine learning, and careers in AI audio. Accessible entry point for beginners."
+  source_type: media
+  topics: [general-mir, analysis]
+  people: [Valerio Velardo]
+  added: 2026-05-23
+  verified: 2026-05-23
