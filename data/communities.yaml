@@ -1,0 +1,64 @@
+- name: AUDITORY Mailing List
+  url: https://auditory.mcgill.ca/
+  description: "Email list for auditory perception, psychoacoustics, and computational auditory scene analysis research. Managed by McGill University."
+  source_type: community
+  region: global
+  topics: [analysis]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: ISMIR Mailing List
+  url: https://ismir.net/
+  description: "Official mailing list of the International Society for Music Information Retrieval with approximately 1,800 members. Primary channel for CFP announcements, jobs, and community news."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: MIR Slack
+  url: https://ismir.net/
+  description: "Slack workspace for the MIR research community, accessible via the ISMIR website with approximately 400 members. Used for informal discussion, questions, and announcements."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: r/musicir
+  url: https://www.reddit.com/r/musicir/
+  description: "Reddit community for Music Information Retrieval discussions, paper links, and tools. Low traffic but useful for archived questions and entry-level discussions."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: The Sound of AI Slack
+  url: https://valeriovelardo.com/the-sound-of-ai-community/
+  description: "Largest AI-audio Slack community with approximately 9,000 members, founded by Valerio Velardo. Covers deep learning for audio, music generation, and careers in AI audio engineering."
+  source_type: community
+  region: global
+  topics: [general-mir, generation]
+  people: [Valerio Velardo]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: Water & Music Community
+  url: https://newsletter.waterandmusic.com/
+  description: "Research network and Discord community focused on the intersection of music, technology, and business, run by Cherie Hu. Industry-oriented with analysis of music-tech trends."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  people: [Cherie Hu]
+  added: 2026-05-23
+  verified: 2026-05-23
+
+- name: WIMIR
+  url: https://wimir.wordpress.com/
+  description: "Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  added: 2026-05-23
+  verified: 2026-05-23
