@@ -38,7 +38,6 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[MIR Slack](https://ismir.net/)** — Slack workspace for the MIR research community, accessible via the ISMIR website with approximately 400 members. Used for informal discussion, questions, and announcements.
 - **[r/musicir](https://www.reddit.com/r/musicir/)** — Reddit community for Music Information Retrieval discussions, paper links, and tools. Low traffic but useful for archived questions and entry-level discussions.
 - **[The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/)** — Largest AI-audio Slack community with approximately 9,000 members, founded by Valerio Velardo. Covers deep learning for audio, music generation, and careers in AI audio engineering. *People: Valerio Velardo.*
-- **[Water & Music Community](https://newsletter.waterandmusic.com/)** — Research network and Discord community focused on the intersection of music, technology, and business, run by Cherie Hu. Industry-oriented with analysis of music-tech trends. *People: Cherie Hu.*
 - **[WIMIR](https://wimir.wordpress.com/)** — Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference.
 
 ---
@@ -61,7 +60,8 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 - **[Boston AI Music Meetup](https://www.meetup.com/boston-ai-music-meetup/)** — Monthly meetup for AI music researchers and practitioners in the Boston area, organised by Christian Steinmetz. Events are held at MIT Media Lab, Suno, and other Cambridge venues. *People: Christian Steinmetz.* *(Cambridge, MA, monthly)*
 - **[London Audio & Music AI Meetup](https://www.meetup.com/london-audio-and-music-ai-meetup/)** — London-based meetup for audio and music AI practitioners from industry and academia. Talk archives are available on GitHub at lamai-meetup/meetups and via the group's YouTube channel. *(London, UK)*
-- **[Munich Music Labs](https://munichmusiclabs.com/)** — Student initiative at TU Munich bridging AI and music through monthly Knowledge Sharing Sessions, the annual HACKATUNE hackathon, and community events for students and practitioners. *(Munich, Germany, monthly)*
+- **[Munich Music Labs](https://lu.ma/munichmusiclabs)** — Student initiative at TU Munich bridging AI and music through monthly Knowledge Sharing Sessions, the annual HACKATUNE hackathon, and community events for students and practitioners. *(Munich, Germany, monthly)*
+- **[Water & Music](https://lu.ma/water-and-music)** — Event series by Cherie Hu at the intersection of music, technology, and business. Covers streaming economics, generative AI, and music-tech strategy. *People: Cherie Hu.*
 
 ---
 
