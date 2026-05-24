@@ -177,17 +177,6 @@
   added: 2026-05-23
   verified: 2026-05-23
 
-- name: LabROSA — Laboratory for the Recognition and Organization of Speech and Audio
-  url: https://labrosa.ee.columbia.edu/
-  description: "Columbia University research lab led by Dan Ellis working on speech and audio recognition, music analysis, and the AUDITORY mailing list."
-  source_type: academic
-  region: north-america
-  institution: Columbia University
-  topics: [general-mir, analysis]
-  people: [Dan Ellis]
-  added: 2026-05-23
-  verified: 2026-05-23
-
 - name: MARL — Music and Audio Research Laboratory
   url: https://steinhardt.nyu.edu/marl
   description: "Research lab at NYU Steinhardt led by Juan Pablo Bello, focusing on music information retrieval, urban sound analysis, and open-source tools including Librosa and mir_eval."
@@ -274,16 +263,6 @@
   institution: Google DeepMind
   topics: [generation, synthesis]
   people: [Doug Eck, Adam Roberts]
-  added: 2026-05-23
-  verified: 2026-05-23
-
-- name: Harmonai
-  url: https://www.harmonai.org/
-  description: "Open-source generative audio research organisation backed by Stability AI, releasing models and tools for music generation including Dance Diffusion and Stable Audio."
-  source_type: industry
-  institution: Stability AI
-  topics: [generation, synthesis]
-  people: [Jordi Pons, Zach Evans]
   added: 2026-05-23
   verified: 2026-05-23
 

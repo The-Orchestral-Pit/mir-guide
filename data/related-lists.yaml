@@ -16,7 +16,7 @@
 
 - name: audio-ai-timeline
   url: https://github.com/archinetai/audio-ai-timeline
-  description: "Chronological log of notable audio AI model releases and research milestones, useful for tracking how the field has evolved."
+  description: "Archived chronological log of notable audio AI model releases and research milestones up to early 2024. Useful as a historical snapshot of how the field developed."
   source_type: community
   topics: [general-mir, generation]
   added: 2026-05-23
@@ -40,7 +40,7 @@
 
 - name: awesome-deep-learning-music
   url: https://github.com/ybayle/awesome-deep-learning-music
-  description: "Survey of deep learning papers and resources applied to music, maintained by Yann Bayle."
+  description: "Archived survey of deep learning papers and resources applied to music by Yann Bayle, covering work up to 2023. A useful historical reference for the pre-foundation-model era of music AI."
   source_type: community
   topics: [general-mir, analysis]
   added: 2026-05-23

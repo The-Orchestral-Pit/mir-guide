@@ -1,25 +1,7 @@
 # Newsletters
-- name: MIDiA Research
-  url: https://www.midiaresearch.com/
-  description: "Music and media industry research and analysis firm publishing reports, data, and a newsletter covering streaming, AI, and the business of music."
-  source_type: media
-  pub_format: newsletter
-  topics: [general-mir]
-  added: 2026-05-23
-  verified: 2026-05-23
-
 - name: Music Ally — The Knowledge
   url: https://musically.com/the-knowledge/
   description: "Free weekly newsletter from Music Ally summarising the most important music industry and music-technology news. Published every weekday morning."
-  source_type: media
-  pub_format: newsletter
-  topics: [general-mir]
-  added: 2026-05-23
-  verified: 2026-05-23
-
-- name: MUSIC x
-  url: https://www.musicxtechxfuture.com/
-  description: "Newsletter covering the future of music, media, and technology with a focus on innovation, business models, and emerging platforms."
   source_type: media
   pub_format: newsletter
   topics: [general-mir]
@@ -66,7 +48,7 @@
   verified: 2026-05-24
 
 - name: Brian McFee's Site
-  url: https://bmcfee.github.io/
+  url: https://brianmcfee.net/
   description: "Personal site of Brian McFee (NYU MARL), creator of Librosa. Includes research publications, course materials, and posts on music signal processing and machine learning."
   source_type: academic
   pub_format: blog
@@ -94,15 +76,6 @@
   people: [Christian Steinmetz]
   added: 2026-05-23
   verified: 2026-05-23
-
-- name: Deezer Engineering Blog
-  url: https://deezer.io/
-  description: "Engineering blog covering Deezer's work on music recommendation, audio signal processing, machine learning infrastructure, and open-source projects including Spleeter."
-  source_type: industry
-  pub_format: blog
-  topics: [recommendation, separation, analysis]
-  added: 2026-05-24
-  verified: 2026-05-24
 
 - name: Google Magenta Blog
   url: https://magenta.tensorflow.org/blog
@@ -170,7 +143,7 @@
   verified: 2026-05-24
 
 - name: Sony CSL Paris Music Team Blog
-  url: https://cslmusicteam.sony.fr/
+  url: https://cslmusicteam.sony.fr/blog/
   description: "Research blog of the Sony Computer Science Laboratories Paris music team, covering AI-assisted music production, generative models, and creative tools like DrumGAN and Diff-A-Riff."
   source_type: industry
   pub_format: blog
@@ -188,7 +161,7 @@
   verified: 2026-05-23
 
 - name: Spotify Research Blog
-  url: https://research.atspotify.com/
+  url: https://research.atspotify.com/blog/
   description: "Spotify's research publication hub covering music recommendation, audio understanding, NLP, and user behaviour. Includes papers, datasets, and open-source releases."
   source_type: industry
   pub_format: blog
