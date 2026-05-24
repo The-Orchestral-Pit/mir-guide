@@ -16,11 +16,3 @@
   added: 2026-05-23
   verified: 2026-05-23
 
-- name: The Sound of AI
-  url: https://thesoundofai.com/
-  description: "YouTube channel and podcast-format show by Valerio Velardo covering deep learning for audio, music AI research, and careers in the field. Includes tutorial series and researcher interviews."
-  source_type: media
-  topics: [general-mir, generation]
-  people: [Valerio Velardo]
-  added: 2026-05-23
-  verified: 2026-05-23

@@ -19,11 +19,11 @@
 # MIR Guide — A community map for Music Information Retrieval
 
 A community map of the people, labs, communities, and events shaping Music Information Retrieval.
-Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on Twitter/X ([@theOrchestralPit](https://x.com/theOrchestralPit)).
+Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on Twitter/X ([@OrchestralPit](https://x.com/OrchestralPit)).
 
 ## What this is
 
-MIR Guide maps the *who* and *where* of Music Information Retrieval — the labs doing the research, the communities where people gather, and the events where they meet. It is not a paper or library catalog; for those, see [yamathcy/awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics) and the [related lists](#related-lists) at the bottom of this page. The goal is a living reference for anyone trying to orient themselves in the MIR ecosystem.
+MIR Guide maps the *who* and *where* of Music Information Retrieval — the labs doing the research, the communities where people gather, and the events where they meet. It is not a paper or library catalog; for those, see [yamathcy/awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics) and the [related lists](#-related-lists) at the bottom of this page. The goal is a living reference for anyone trying to orient themselves in the MIR ecosystem.
 
 ## How to use this guide
 
@@ -47,7 +47,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
   - [Substacks](#substacks)
 - [Podcasts](#podcasts)
 - [Learning](#learning)
-- [Related Lists](#related-lists)
+- [Related Lists](#-related-lists)
 
 ---
 

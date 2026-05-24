@@ -1,11 +1,11 @@
 # MIR Guide — A community map for Music Information Retrieval
 
 A community map of the people, labs, communities, and events shaping Music Information Retrieval.
-Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on Twitter/X ([@theOrchestralPit](https://x.com/theOrchestralPit)).
+Maintained as part of The Orchestral Pit, which runs a daily MIR research feed on Twitter/X ([@OrchestralPit](https://x.com/OrchestralPit)).
 
 ## What this is
 
-MIR Guide maps the *who* and *where* of Music Information Retrieval — the labs doing the research, the communities where people gather, and the events where they meet. It is not a paper or library catalog; for those, see [yamathcy/awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics) and the [related lists](#related-lists) at the bottom of this page. The goal is a living reference for anyone trying to orient themselves in the MIR ecosystem.
+MIR Guide maps the *who* and *where* of Music Information Retrieval — the labs doing the research, the communities where people gather, and the events where they meet. It is not a paper or library catalog; for those, see [yamathcy/awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics) and the [related lists](#-related-lists) at the bottom of this page. The goal is a living reference for anyone trying to orient themselves in the MIR ecosystem.
 
 ## How to use this guide
 
@@ -29,7 +29,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
   - [Substacks](#substacks)
 - [Podcasts](#podcasts)
 - [Learning](#learning)
-- [Related Lists](#related-lists)
+- [Related Lists](#-related-lists)
 
 ---
 
@@ -37,8 +37,8 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 - **[AUDITORY Mailing List](https://www.auditory.org/)** — Email list for auditory perception, psychoacoustics, and computational auditory scene analysis research. Managed by McGill University.
 - **[ISMIR Mailing List](https://ismir.net/)** — Official mailing list of the International Society for Music Information Retrieval with approximately 1,800 members. Primary channel for CFP announcements, jobs, and community news.
-- **[MIR Slack](https://ismir.net/)** — Slack workspace for the MIR research community, accessible via the ISMIR website with approximately 400 members. Used for informal discussion, questions, and announcements.
-- **[The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/)** — Largest AI-audio Slack community with approximately 9,000 members, founded by Valerio Velardo. Covers deep learning for audio, music generation, and careers in AI audio engineering. *People: Valerio Velardo.*
+- **[MIR Slack](https://slackpass.io/mircommunity)** — Slack workspace for the MIR research community, accessible via the ISMIR website with approximately 400 members. Used for informal discussion, questions, and announcements.
+- **[The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/)** — Largest AI-audio Slack community with approximately 9,000 members. Covers deep learning for audio, music generation, and careers in AI audio engineering.
 - **[Munich Music Labs](https://munichmusiclabs.com/)** — Student initiative at TU Munich bridging AI and music, connecting Bachelor's to PhD students, researchers, and industry partners through collaborative projects and events like HACKATUNE.
 - **[WIMIR](https://wimir.wordpress.com/)** — Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference.
 
@@ -141,7 +141,6 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 - **[Music Ally Focus](https://musically.com/music-ally-podcast/)** — Music Ally's podcast analysing key music industry and music-technology stories in depth, hosted by managing editor Joe Sparrow with expert guests. *People: Joe Sparrow.*
 - **[Music Tectonics Podcast](https://www.musictectonics.com/podcast)** — Weekly podcast covering music technology, business, and innovation hosted by Dmitri Vietze. Companion to the annual Music Tectonics conference. *People: Dmitri Vietze.*
-- **[The Sound of AI](https://thesoundofai.com/)** — YouTube channel and podcast-format show by Valerio Velardo covering deep learning for audio, music AI research, and careers in the field. Includes tutorial series and researcher interviews. *People: Valerio Velardo.*
 
 ---
 
