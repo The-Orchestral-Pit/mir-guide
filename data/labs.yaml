@@ -7,6 +7,7 @@
   description: "Joint lab of FAU Erlangen-Nuremberg and Fraunhofer IIS, led by Meinard Müller. Home of the FMP notebooks and textbook on music processing fundamentals."
   source_type: academic
   region: europe
+  institution: FAU Erlangen-Nuremberg / Fraunhofer IIS
   topics: [general-mir, analysis]
   people: [Meinard Müller]
   added: 2026-05-23
@@ -17,6 +18,7 @@
   description: "Interdisciplinary research centre at Queen Mary University of London covering music analysis, synthesis, and interaction. Home of the EPSRC AIM Centre for Doctoral Training."
   source_type: academic
   region: europe
+  institution: Queen Mary University of London
   topics: [general-mir, analysis]
   people: [Mark Sandler, Simon Dixon, György Fazekas]
   added: 2026-05-23
@@ -27,6 +29,7 @@
   description: "ERC-funded research initiative at King's College London investigating how musical structures affect cardiovascular physiology, with applications in music-based cardiac diagnosis and therapy."
   source_type: academic
   region: europe
+  institution: King's College London
   topics: [analysis]
   added: 2026-05-24
   verified: 2026-05-24
@@ -36,6 +39,7 @@
   description: "Research institute at JKU Linz led by Gerhard Widmer and Markus Schedl, working on music information retrieval, automatic music transcription, and music recommendation."
   source_type: academic
   region: europe
+  institution: JKU Linz
   topics: [general-mir, recommendation, transcription]
   people: [Gerhard Widmer, Markus Schedl]
   added: 2026-05-23
@@ -46,6 +50,7 @@
   description: "Research lab at EPFL led by Martin Rohrmeier studying harmony, counterpoint, and musical form using corpus analysis, computational modelling, and cognitive approaches."
   source_type: academic
   region: europe
+  institution: EPFL
   topics: [analysis]
   people: [Martin Rohrmeier]
   added: 2026-05-23
@@ -56,6 +61,7 @@
   description: "Sound and music computing research group at INESC TEC Porto, led by Matthew Davies, with focus on rhythm analysis, beat tracking, and music signal processing."
   source_type: academic
   region: europe
+  institution: INESC TEC
   topics: [general-mir, analysis]
   people: [Matthew Davies]
   added: 2026-05-23
@@ -66,6 +72,7 @@
   description: "Research institute at Ghent University studying embodied music cognition, music and motion, and expressive interaction through psychoacoustic and computational methods."
   source_type: academic
   region: europe
+  institution: Ghent University
   topics: [analysis, performance]
   added: 2026-05-23
   verified: 2026-05-23
@@ -75,6 +82,7 @@
   description: "Paris-based research institute and concert hall dedicated to acoustic music research, computer music, and sound-space interaction. Manages the ISMIR mailing list and hosts the Max/MSP ecosystem."
   source_type: academic
   region: europe
+  institution: IRCAM Paris
   topics: [general-mir, synthesis, analysis]
   people: [Geoffroy Peeters]
   added: 2026-05-23
@@ -85,6 +93,7 @@
   description: "Research group at Universitat Pompeu Fabra Barcelona covering music analysis, synthesis, and retrieval. Creators of the Essentia library and the Freesound audio sharing platform."
   source_type: academic
   region: europe
+  institution: Universitat Pompeu Fabra
   topics: [general-mir, analysis]
   people: [Xavier Serra, Dmitry Bogdanov, Frederic Font]
   added: 2026-05-23
@@ -95,6 +104,7 @@
   description: "Music and machine learning research group at the Austrian Research Institute for Artificial Intelligence in Vienna, working on score-performance alignment and expressive music analysis."
   source_type: academic
   region: europe
+  institution: OFAI Vienna
   topics: [general-mir, analysis, performance]
   added: 2026-05-23
   verified: 2026-05-23
@@ -104,6 +114,7 @@
   description: "MIR research group within the Institute of Information Systems Engineering at TU Wien, led by Peter Knees, with focus on music search, recommendation, and interfaces for music creation."
   source_type: academic
   region: europe
+  institution: TU Wien
   topics: [general-mir, recommendation]
   people: [Peter Knees]
   added: 2026-05-23
@@ -114,6 +125,7 @@
   description: "Audio research group at Tampere University led by Tuomas Virtanen, specialising in sound event detection, acoustic scene analysis, and audio source separation."
   source_type: academic
   region: europe
+  institution: Tampere University
   topics: [analysis, separation]
   people: [Tuomas Virtanen]
   added: 2026-05-23
@@ -126,6 +138,7 @@
   description: "Multidisciplinary research centre at Stanford University for music technology, acoustics, and computer music. Hosts the musicinformationretrieval.com course notebooks."
   source_type: academic
   region: north-america
+  institution: Stanford University
   topics: [general-mir, synthesis, analysis]
   people: [Julius O. Smith, Iran Roman]
   added: 2026-05-23
@@ -136,6 +149,7 @@
   description: "Multi-university research centre hosted at McGill University's Schulich School of Music, covering music performance, recording, cognition, and computing."
   source_type: academic
   region: north-america
+  institution: McGill University
   topics: [general-mir, analysis, performance]
   people: [Ichiro Fujinaga]
   added: 2026-05-23
@@ -146,6 +160,7 @@
   description: "Interdisciplinary centre at Georgia Tech for music technology research and education, covering music computing, interactive systems, and music AI."
   source_type: academic
   region: north-america
+  institution: Georgia Tech
   topics: [general-mir, analysis]
   people: [Alexander Lerch, Gil Weinberg]
   added: 2026-05-23
@@ -156,6 +171,7 @@
   description: "Research group at Northwestern University led by Bryan Pardo, focused on audio source separation, music generation, and human-in-the-loop audio editing systems."
   source_type: academic
   region: north-america
+  institution: Northwestern University
   topics: [separation, generation]
   people: [Bryan Pardo]
   added: 2026-05-23
@@ -166,6 +182,7 @@
   description: "Columbia University research lab led by Dan Ellis working on speech and audio recognition, music analysis, and the AUDITORY mailing list."
   source_type: academic
   region: north-america
+  institution: Columbia University
   topics: [general-mir, analysis]
   people: [Dan Ellis]
   added: 2026-05-23
@@ -176,6 +193,7 @@
   description: "Research lab at NYU Steinhardt led by Juan Pablo Bello, focusing on music information retrieval, urban sound analysis, and open-source tools including Librosa and mir_eval."
   source_type: academic
   region: north-america
+  institution: NYU Steinhardt
   topics: [general-mir, analysis]
   people: [Juan Pablo Bello, Brian McFee]
   added: 2026-05-23
@@ -188,6 +206,7 @@
   description: "Audio, Music, and AI lab at Singapore University of Technology and Design led by Dorien Herremans, working on generative models for music, affective computing, and multimodal AI."
   source_type: academic
   region: asia-pacific
+  institution: SUTD
   topics: [generation, analysis]
   people: [Dorien Herremans]
   added: 2026-05-23
@@ -198,6 +217,7 @@
   description: "Music and Audio Computing Lab at KAIST Graduate School of Culture Technology, led by Juhan Nam. Research spans music information retrieval, music AI, and open course materials."
   source_type: academic
   region: asia-pacific
+  institution: KAIST
   topics: [general-mir, analysis]
   people: [Juhan Nam]
   added: 2026-05-23
@@ -208,6 +228,7 @@
   description: "Research group at Japan's National Institute of Advanced Industrial Science and Technology, led by Masataka Goto. Creators of the RWC Music Database and numerous MIR systems."
   source_type: academic
   region: asia-pacific
+  institution: AIST Japan
   topics: [general-mir, analysis]
   people: [Masataka Goto]
   added: 2026-05-23
@@ -218,6 +239,7 @@
   description: "Research lab at Academia Sinica Taiwan's Research Center for IT Innovation, led by Yi-Hsuan Yang. Formerly the Music and Audio Computing Lab, now focused on music AI and generative models."
   source_type: academic
   region: asia-pacific
+  institution: Academia Sinica
   topics: [general-mir, generation, analysis]
   people: [Yi-Hsuan Yang]
   added: 2026-05-23
@@ -228,6 +250,7 @@
   description: "Sound and Music Computing Lab at the National University of Singapore, led by Ye Wang, with emphasis on MIR applications in music education and music-enhanced health."
   source_type: academic
   region: asia-pacific
+  institution: NUS
   topics: [general-mir, analysis]
   people: [Ye Wang]
   added: 2026-05-23
@@ -239,6 +262,7 @@
   url: https://research.deezer.com/
   description: "Research team at Deezer covering music recommendation, audio signal processing, and NLP. Creators of the Spleeter open-source source separation library."
   source_type: industry
+  institution: Deezer
   topics: [recommendation, separation, analysis]
   added: 2026-05-23
   verified: 2026-05-23
@@ -247,6 +271,7 @@
   url: https://magenta.tensorflow.org/
   description: "Google's research project exploring generative models for music and art, producing tools such as MusicVAE, NSynth, and Magenta Studio. Part of the broader Google DeepMind organisation."
   source_type: industry
+  institution: Google DeepMind
   topics: [generation, synthesis]
   people: [Doug Eck, Adam Roberts]
   added: 2026-05-23
@@ -256,6 +281,7 @@
   url: https://www.harmonai.org/
   description: "Open-source generative audio research organisation backed by Stability AI, releasing models and tools for music generation including Dance Diffusion and Stable Audio."
   source_type: industry
+  institution: Stability AI
   topics: [generation, synthesis]
   people: [Jordi Pons, Zach Evans]
   added: 2026-05-23
@@ -265,6 +291,7 @@
   url: https://ai.meta.com/research/
   description: "Audio AI research team within Meta Fundamental AI Research responsible for MusicGen, AudioCraft, and EnCodec. Publishes models and code as open source."
   source_type: industry
+  institution: Meta
   topics: [generation, synthesis]
   people: [Alexandre Défossez, Jade Copet]
   added: 2026-05-23
@@ -274,6 +301,7 @@
   url: https://cslmusicteam.sony.fr/
   description: "Music AI research team at Sony Computer Science Laboratories Paris working on AI-assisted composition and production, including DrumGAN, Diff-A-Riff, and PESTO."
   source_type: industry
+  institution: Sony CSL
   topics: [generation, synthesis, analysis]
   people: [Stefan Lattner, Alain Riou]
   added: 2026-05-23
@@ -283,6 +311,7 @@
   url: https://research.atspotify.com/
   description: "Spotify's research division covering music recommendation, audio understanding, NLP, and user behaviour modelling. Publishes papers, datasets, and open-source libraries."
   source_type: industry
+  institution: Spotify
   topics: [recommendation, analysis]
   people: [Sebastian Ewert]
   added: 2026-05-23

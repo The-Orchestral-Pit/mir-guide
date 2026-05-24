@@ -67,6 +67,7 @@ class Resource(BaseModel):
     region: Region | None = None
     topics: list[Topic] = []
     people: list[str] = []
+    institution: str | None = None
     event_type: EventType | None = None
     recurrence: Recurrence | None = None
     location: str | None = None

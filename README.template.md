@@ -4,6 +4,18 @@
   {%- if r.location %} *({{ r.location }}{% if r.recurrence %}, {{ r.recurrence }}{% endif %})*{% endif %}
 {{ "" }}
 {% endmacro -%}
+
+{% macro render_lab(r) -%}
+- **[{{ r.name }}]({{ r.url }})**{% if r.institution %} [{{ r.institution }}]{% endif %} — {{ r.description }}
+  {%- if r.people %} *People: {{ r.people | join(", ") }}.*{% endif %}
+{{ "" }}
+{% endmacro -%}
+
+{% macro render_blog(r) -%}
+- **[{{ r.name }}]({{ r.url }})** [{% if r.people %}Personal{% else %}Industry{% endif %}] — {{ r.description }}
+  {%- if r.people %} *People: {{ r.people | join(", ") }}.*{% endif %}
+{{ "" }}
+{% endmacro -%}
 # MIR Guide — A community map for Music Information Retrieval
 
 A community map of the people, labs, communities, and events shaping Music Information Retrieval.
@@ -37,7 +49,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Communities
+## 👥 Communities
 
 {% for r in communities %}
 {{ render_resource(r) -}}
@@ -45,21 +57,21 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Events
+## 📅 Events
 
-### Conferences
+### 🎤 Conferences
 
 {% for r in events_by_type.get('conference', []) %}
 {{ render_resource(r) -}}
 {% endfor %}
 
-### Festivals
+### 🎉 Festivals
 
 {% for r in events_by_type.get('festival', []) %}
 {{ render_resource(r) -}}
 {% endfor %}
 
-### Meetups
+### ☕ Meetups
 
 {% for r in events_by_type.get('meetup', []) %}
 {{ render_resource(r) -}}
@@ -67,35 +79,35 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Labs
+## 🔬 Labs
 
-### Europe
+### 🇪🇺 Europe
 
 {% for r in labs_by_region.get('europe', []) %}
-{{ render_resource(r) -}}
+{{ render_lab(r) -}}
 {% endfor %}
 
-### North America
+### 🌎 North America
 
 {% for r in labs_by_region.get('north-america', []) %}
-{{ render_resource(r) -}}
+{{ render_lab(r) -}}
 {% endfor %}
 
-### Asia-Pacific
+### 🌏 Asia-Pacific
 
 {% for r in labs_by_region.get('asia-pacific', []) %}
-{{ render_resource(r) -}}
+{{ render_lab(r) -}}
 {% endfor %}
 
-### Industry
+### 🏭 Industry
 
 {% for r in labs_by_region.get('other', []) %}
-{{ render_resource(r) -}}
+{{ render_lab(r) -}}
 {% endfor %}
 
 ---
 
-## Newsletters
+## 📰 Newsletters
 
 {% for r in newsletters %}
 {{ render_resource(r) -}}
@@ -103,7 +115,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Podcasts
+## 🎙️ Podcasts
 
 {% for r in podcasts %}
 {{ render_resource(r) -}}
@@ -111,15 +123,15 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Blogs
+## ✍️ Blogs
 
 {% for r in blogs %}
-{{ render_resource(r) -}}
+{{ render_blog(r) -}}
 {% endfor %}
 
 ---
 
-## Learning
+## 📚 Learning
 
 {% for r in learning %}
 {{ render_resource(r) -}}
@@ -127,7 +139,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Related Lists
+## 🔗 Related Lists
 
 {% for r in related_lists %}
 {{ render_resource(r) -}}
@@ -135,11 +147,11 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Found something missing or out of date? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to suggest a resource via issue or open a pull request with a YAML edit.
 
-## License
+## 📄 License
 
 Code (scripts and workflows) is [MIT licensed](LICENSE). The curated content in `data/` is [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
