@@ -17,7 +17,7 @@
   verified: 2026-05-23
 
 - name: MIR Slack
-  url: https://ismir.net/
+  url: https://slackpass.io/mircommunity
   description: "Slack workspace for the MIR research community, accessible via the ISMIR website with approximately 400 members. Used for informal discussion, questions, and announcements."
   source_type: community
   region: global
@@ -36,11 +36,10 @@
 
 - name: The Sound of AI Slack
   url: https://valeriovelardo.com/the-sound-of-ai-community/
-  description: "Largest AI-audio Slack community with approximately 9,000 members, founded by Valerio Velardo. Covers deep learning for audio, music generation, and careers in AI audio engineering."
+  description: "Largest AI-audio Slack community with approximately 9,000 members. Covers deep learning for audio, music generation, and careers in AI audio engineering."
   source_type: community
   region: global
   topics: [general-mir, generation]
-  people: [Valerio Velardo]
   added: 2026-05-23
   verified: 2026-05-23
 
