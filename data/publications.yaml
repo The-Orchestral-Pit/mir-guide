@@ -29,15 +29,6 @@
   verified: 2026-05-23
 
 # Blogs
-- name: AIVA Blog
-  url: https://blog.aiva.ai/
-  description: "Technical blog from AIVA covering AI music composition research, transformer-based foundation models, neural audio codecs, and music quality assessment."
-  source_type: industry
-  pub_format: blog
-  topics: [generation, synthesis]
-  added: 2026-05-24
-  verified: 2026-05-24
-
 - name: AudioShake Blog
   url: https://www.audioshake.ai/blog
   description: "Technical blog on AI-powered music source separation, covering stem isolation benchmarks, real-time processing, and applications in film and broadcast licensing."

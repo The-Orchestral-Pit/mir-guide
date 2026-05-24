@@ -25,15 +25,6 @@
   added: 2026-05-23
   verified: 2026-05-23
 
-- name: r/musicir
-  url: https://www.reddit.com/r/musicir/
-  description: "Reddit community for Music Information Retrieval discussions, paper links, and tools. Low traffic but useful for archived questions and entry-level discussions."
-  source_type: community
-  region: global
-  topics: [general-mir]
-  added: 2026-05-23
-  verified: 2026-05-23
-
 - name: The Sound of AI Slack
   url: https://valeriovelardo.com/the-sound-of-ai-community/
   description: "Largest AI-audio Slack community with approximately 9,000 members, founded by Valerio Velardo. Covers deep learning for audio, music generation, and careers in AI audio engineering."
