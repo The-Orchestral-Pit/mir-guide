@@ -1,5 +1,5 @@
 - name: AUDITORY Mailing List
-  url: https://auditory.mcgill.ca/
+  url: https://www.auditory.org/
   description: "Email list for auditory perception, psychoacoustics, and computational auditory scene analysis research. Managed by McGill University."
   source_type: community
   region: global
@@ -25,15 +25,6 @@
   added: 2026-05-23
   verified: 2026-05-23
 
-- name: r/musicir
-  url: https://www.reddit.com/r/musicir/
-  description: "Reddit community for Music Information Retrieval discussions, paper links, and tools. Low traffic but useful for archived questions and entry-level discussions."
-  source_type: community
-  region: global
-  topics: [general-mir]
-  added: 2026-05-23
-  verified: 2026-05-23
-
 - name: The Sound of AI Slack
   url: https://valeriovelardo.com/the-sound-of-ai-community/
   description: "Largest AI-audio Slack community with approximately 9,000 members. Covers deep learning for audio, music generation, and careers in AI audio engineering."
@@ -42,6 +33,15 @@
   topics: [general-mir, generation]
   added: 2026-05-23
   verified: 2026-05-23
+
+- name: Munich Music Labs
+  url: https://munichmusiclabs.com/
+  description: "Student initiative at TU Munich bridging AI and music, connecting Bachelor's to PhD students, researchers, and industry partners through collaborative projects and events like HACKATUNE."
+  source_type: community
+  region: europe
+  topics: [general-mir, generation]
+  added: 2026-05-24
+  verified: 2026-05-24
 
 - name: WIMIR
   url: https://wimir.wordpress.com/

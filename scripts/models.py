@@ -47,6 +47,12 @@ class EventType(StrEnum):
     HACKATHON = "hackathon"
 
 
+class PublicationFormat(StrEnum):
+    BLOG = "blog"
+    NEWSLETTER = "newsletter"
+    SUBSTACK = "substack"
+
+
 class Recurrence(StrEnum):
     MONTHLY = "monthly"
     QUARTERLY = "quarterly"
@@ -67,9 +73,11 @@ class Resource(BaseModel):
     region: Region | None = None
     topics: list[Topic] = []
     people: list[str] = []
+    institution: str | None = None
     event_type: EventType | None = None
     recurrence: Recurrence | None = None
     location: str | None = None
+    pub_format: PublicationFormat | None = None
 
     @model_validator(mode="after")
     def warn_marketing_language(self) -> "Resource":

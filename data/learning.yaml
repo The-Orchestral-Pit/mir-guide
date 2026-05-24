@@ -61,7 +61,7 @@
   verified: 2026-05-23
 
 - name: The Sound of AI YouTube
-  url: https://thesoundofai.com/
+  url: https://www.youtube.com/c/ValerioVelardoTheSoundofAI
   description: "YouTube tutorial series by Valerio Velardo covering deep learning for audio, audio signal processing for machine learning, and careers in AI audio. Accessible entry point for beginners."
   source_type: media
   topics: [general-mir, analysis]

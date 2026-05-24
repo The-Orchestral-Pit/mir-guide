@@ -1,42 +1,6 @@
 # Sorted by event_type, then alphabetical by name
 
-# --- conference ---
-
-- name: Music Tectonics Conference
-  url: https://www.musictectonics.com/
-  description: "Annual music-technology conference in Santa Monica focused on the business and strategy of music innovation. Runs alongside the Music Tectonics podcast and Rock Paper Scanner newsletter."
-  source_type: industry
-  event_type: conference
-  region: north-america
-  location: Santa Monica, CA
-  recurrence: annual
-  people: [Dmitri Vietze]
-  added: 2026-05-23
-  verified: 2026-05-23
-
-- name: SXSW Music
-  url: https://www.sxsw.com/music/
-  description: "Music track of South by Southwest, held each March in Austin. Includes a growing music-technology programming strand alongside the core showcase and conference programme."
-  source_type: industry
-  event_type: conference
-  region: north-america
-  location: Austin, TX
-  recurrence: annual
-  added: 2026-05-23
-  verified: 2026-05-23
-
 # --- festival ---
-
-- name: Amsterdam Dance Event
-  url: https://www.amsterdam-dance-event.nl/
-  description: "Annual electronic music conference and festival in Amsterdam covering the business, technology, and culture of dance music. Features a growing programme of AI and music-technology panels."
-  source_type: community
-  event_type: festival
-  region: europe
-  location: Amsterdam, Netherlands
-  recurrence: annual
-  added: 2026-05-23
-  verified: 2026-05-23
 
 - name: Ars Electronica
   url: https://ars.electronica.art/
@@ -45,17 +9,6 @@
   event_type: festival
   region: europe
   location: Linz, Austria
-  recurrence: annual
-  added: 2026-05-23
-  verified: 2026-05-23
-
-- name: Eurosonic Noorderslag
-  url: https://esns.nl/
-  description: "Annual European music showcase conference in Groningen combining an industry conference with live performances. Increasingly features music-technology and AI programming tracks."
-  source_type: community
-  event_type: festival
-  region: europe
-  location: Groningen, Netherlands
   recurrence: annual
   added: 2026-05-23
   verified: 2026-05-23
@@ -82,16 +35,6 @@
   location: Cambridge, MA
   recurrence: monthly
   people: [Christian Steinmetz]
-  added: 2026-05-23
-  verified: 2026-05-23
-
-- name: London Audio & Music AI Meetup
-  url: https://www.meetup.com/london-audio-and-music-ai-meetup/
-  description: "London-based meetup for audio and music AI practitioners from industry and academia. Talk archives are available on GitHub at lamai-meetup/meetups and via the group's YouTube channel."
-  source_type: community
-  event_type: meetup
-  region: europe
-  location: London, UK
   added: 2026-05-23
   verified: 2026-05-23
 
