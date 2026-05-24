@@ -59,6 +59,72 @@
   added: 2026-05-23
   verified: 2026-05-23
 
+- name: AIVA Blog
+  url: https://blog.aiva.ai/
+  description: "Technical blog from AIVA covering AI music composition research, transformer-based foundation models, neural audio codecs, and music quality assessment."
+  source_type: industry
+  topics: [generation, synthesis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: Art in Tech
+  url: https://artintech.substack.com/
+  description: "Newsletter by Jordi Pons (Stability AI / Harmonai) on generative AI for music and audio, with technical explanations of research systems and discussions on creative technology."
+  source_type: media
+  topics: [generation, analysis]
+  people: [Jordi Pons]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: AudioShake Blog
+  url: https://www.audioshake.ai/blog
+  description: "Technical blog on AI-powered music source separation, covering stem isolation benchmarks, real-time processing, and applications in film and broadcast licensing."
+  source_type: industry
+  topics: [separation, analysis, transcription]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: Coding in Tune
+  url: https://codingintune.substack.com/
+  description: "Newsletter by Wen Qing Lim exploring music computing topics including beat tracking, pitch recognition, and music AI through data science projects and reflections on creativity."
+  source_type: media
+  topics: [general-mir, analysis]
+  people: [Wen Qing Lim]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: Deezer Engineering Blog
+  url: https://deezer.io/
+  description: "Engineering blog covering Deezer's work on music recommendation, audio signal processing, machine learning infrastructure, and open-source projects including Spleeter."
+  source_type: industry
+  topics: [recommendation, separation, analysis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: LALAL.AI Blog
+  url: https://www.lalal.ai/blog/
+  description: "Blog from the LALAL.AI team covering AI audio stem separation techniques, neural audio processing, and music source isolation using transformer models."
+  source_type: industry
+  topics: [separation, analysis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: LANDR Blog
+  url: https://blog.landr.com/
+  description: "Blog from LANDR covering AI-powered audio mastering algorithms, mixing techniques, and machine learning approaches to music production and audio quality."
+  source_type: industry
+  topics: [analysis, synthesis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
+- name: Mubert Blog
+  url: https://mubert.com/blog/
+  description: "Blog covering generative music APIs, text-to-music techniques, and developer guides for building AI music generation applications."
+  source_type: industry
+  topics: [generation, synthesis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
 - name: Sony CSL Paris Music Team Blog
   url: https://cslmusicteam.sony.fr/
   description: "Research blog of the Sony Computer Science Laboratories Paris music team, covering AI-assisted music production, generative models, and creative tools like DrumGAN and Diff-A-Riff."

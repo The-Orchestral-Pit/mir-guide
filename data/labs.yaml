@@ -22,6 +22,15 @@
   added: 2026-05-23
   verified: 2026-05-23
 
+- name: COSMOS — Computational Shaping and Modeling of Musical Structures
+  url: https://cosmos.isd.kcl.ac.uk/
+  description: "ERC-funded research initiative at King's College London investigating how musical structures affect cardiovascular physiology, with applications in music-based cardiac diagnosis and therapy."
+  source_type: academic
+  region: europe
+  topics: [analysis]
+  added: 2026-05-24
+  verified: 2026-05-24
+
 - name: CP Lab — Institute of Computational Perception
   url: https://www.jku.at/en/institute-of-computational-perception/
   description: "Research institute at JKU Linz led by Gerhard Widmer and Markus Schedl, working on music information retrieval, automatic music transcription, and music recommendation."
