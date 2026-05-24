@@ -17,9 +17,8 @@ DATA_FILES = {
     "communities": REPO_ROOT / "data" / "communities.yaml",
     "events": REPO_ROOT / "data" / "events.yaml",
     "labs": REPO_ROOT / "data" / "labs.yaml",
-    "newsletters": REPO_ROOT / "data" / "newsletters.yaml",
+    "publications": REPO_ROOT / "data" / "publications.yaml",
     "podcasts": REPO_ROOT / "data" / "podcasts.yaml",
-    "blogs": REPO_ROOT / "data" / "blogs.yaml",
     "learning": REPO_ROOT / "data" / "learning.yaml",
     "related_lists": REPO_ROOT / "data" / "related-lists.yaml",
 }
@@ -78,6 +77,7 @@ def main() -> None:
 
     labs_by_region = group_by_attr(data["labs"], "region")
     events_by_type = group_by_attr(data["events"], "event_type")
+    publications_by_format = group_by_attr(data["publications"], "pub_format")
 
     env = Environment(
         loader=FileSystemLoader(str(REPO_ROOT)),
@@ -90,6 +90,7 @@ def main() -> None:
         **data,
         labs_by_region=labs_by_region,
         events_by_type=events_by_type,
+        publications_by_format=publications_by_format,
         build_date=date.today().isoformat(),
     )
 
