@@ -11,8 +11,8 @@
 {{ "" }}
 {% endmacro -%}
 
-{% macro render_blog(r) -%}
-- **[{{ r.name }}]({{ r.url }})** [{% if r.people %}Personal{% else %}Industry{% endif %}] — {{ r.description }}
+{% macro render_publication(r) -%}
+- **[{{ r.name }}]({{ r.url }})** [{% if r.pub_format == 'blog' %}{% if r.people %}Personal {% endif %}Blog{% elif r.pub_format == 'newsletter' %}Newsletter{% else %}Substack{% endif %}] — {{ r.description }}
   {%- if r.people %} *People: {{ r.people | join(", ") }}.*{% endif %}
 {{ "" }}
 {% endmacro -%}
@@ -41,9 +41,11 @@ Each entry carries a `source_type` — academic, industry, community, or media �
   - [North America](#north-america)
   - [Asia-Pacific](#asia-pacific)
   - [Industry](#industry)
-- [Newsletters](#newsletters)
+- [Publications](#publications)
+  - [Newsletters](#newsletters)
+  - [Blogs](#blogs)
+  - [Substacks](#substacks)
 - [Podcasts](#podcasts)
-- [Blogs](#blogs)
 - [Learning](#learning)
 - [Related Lists](#related-lists)
 
@@ -107,10 +109,24 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## 📰 Newsletters
+## 📰 Publications
 
-{% for r in newsletters %}
-{{ render_resource(r) -}}
+### 📧 Newsletters
+
+{% for r in publications_by_format.get('newsletter', []) %}
+{{ render_publication(r) -}}
+{% endfor %}
+
+### 📝 Blogs
+
+{% for r in publications_by_format.get('blog', []) %}
+{{ render_publication(r) -}}
+{% endfor %}
+
+### 📬 Substacks
+
+{% for r in publications_by_format.get('substack', []) %}
+{{ render_publication(r) -}}
 {% endfor %}
 
 ---
@@ -119,14 +135,6 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 {% for r in podcasts %}
 {{ render_resource(r) -}}
-{% endfor %}
-
----
-
-## ✍️ Blogs
-
-{% for r in blogs %}
-{{ render_blog(r) -}}
 {% endfor %}
 
 ---

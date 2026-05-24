@@ -23,9 +23,11 @@ Each entry carries a `source_type` — academic, industry, community, or media �
   - [North America](#north-america)
   - [Asia-Pacific](#asia-pacific)
   - [Industry](#industry)
-- [Newsletters](#newsletters)
+- [Publications](#publications)
+  - [Newsletters](#newsletters)
+  - [Blogs](#blogs)
+  - [Substacks](#substacks)
 - [Podcasts](#podcasts)
-- [Blogs](#blogs)
 - [Learning](#learning)
 - [Related Lists](#related-lists)
 
@@ -111,13 +113,39 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ---
 
-## 📰 Newsletters
+## 📰 Publications
 
-- **[MIDiA Research](https://www.midiaresearch.com/)** — Music and media industry research and analysis firm publishing reports, data, and a newsletter covering streaming, AI, and the business of music.
-- **[Music Ally — The Knowledge](https://musically.com/the-knowledge/)** — Free weekly newsletter from Music Ally summarising the most important music industry and music-technology news. Published every weekday morning.
-- **[MUSIC x](https://www.musicxtechxfuture.com/)** — Newsletter covering the future of music, media, and technology with a focus on innovation, business models, and emerging platforms.
-- **[Rock Paper Scanner](https://www.rockpaperscissors.biz/blog/rock-paper-scanner-curated-music-innovation-news-in-your-inbox)** — Weekly curated digest of music innovation and business news from Dmitri Vietze and Rock Paper Scissors, companion to the Music Tectonics conference and podcast. *People: Dmitri Vietze.*
-- **[Water & Music Newsletter](https://newsletter.waterandmusic.com/)** — Research newsletter by Cherie Hu analysing the intersection of music, AI, and technology. Covers streaming economics, generative AI, and music-tech strategy. *People: Cherie Hu.*
+### 📧 Newsletters
+
+- **[MIDiA Research](https://www.midiaresearch.com/)** [Newsletter] — Music and media industry research and analysis firm publishing reports, data, and a newsletter covering streaming, AI, and the business of music.
+- **[Music Ally — The Knowledge](https://musically.com/the-knowledge/)** [Newsletter] — Free weekly newsletter from Music Ally summarising the most important music industry and music-technology news. Published every weekday morning.
+- **[MUSIC x](https://www.musicxtechxfuture.com/)** [Newsletter] — Newsletter covering the future of music, media, and technology with a focus on innovation, business models, and emerging platforms.
+- **[Rock Paper Scanner](https://www.rockpaperscissors.biz/blog/rock-paper-scanner-curated-music-innovation-news-in-your-inbox)** [Newsletter] — Weekly curated digest of music innovation and business news from Dmitri Vietze and Rock Paper Scissors, companion to the Music Tectonics conference and podcast. *People: Dmitri Vietze.*
+- **[Water & Music Newsletter](https://newsletter.waterandmusic.com/)** [Newsletter] — Research newsletter by Cherie Hu analysing the intersection of music, AI, and technology. Covers streaming economics, generative AI, and music-tech strategy. *People: Cherie Hu.*
+
+### 📝 Blogs
+
+- **[AIVA Blog](https://blog.aiva.ai/)** [Blog] — Technical blog from AIVA covering AI music composition research, transformer-based foundation models, neural audio codecs, and music quality assessment.
+- **[AudioShake Blog](https://www.audioshake.ai/blog)** [Blog] — Technical blog on AI-powered music source separation, covering stem isolation benchmarks, real-time processing, and applications in film and broadcast licensing.
+- **[Brian McFee's Site](https://bmcfee.github.io/)** [Personal Blog] — Personal site of Brian McFee (NYU MARL), creator of Librosa. Includes research publications, course materials, and posts on music signal processing and machine learning. *People: Brian McFee.*
+- **[Chris Donahue's Site](https://chrisdonahue.com/)** [Personal Blog] — Personal site of Chris Donahue (CMU), covering research on generative models for music and audio. Includes papers, demos, and technical blog posts. *People: Chris Donahue.*
+- **[Christian Steinmetz's Site](https://christiansteinmetz.com/)** [Personal Blog] — Personal site of Christian Steinmetz (Suno), with in-depth tutorials on audio deep learning, research publications, and notes on music production and signal processing. *People: Christian Steinmetz.*
+- **[Deezer Engineering Blog](https://deezer.io/)** [Blog] — Engineering blog covering Deezer's work on music recommendation, audio signal processing, machine learning infrastructure, and open-source projects including Spleeter.
+- **[Google Magenta Blog](https://magenta.tensorflow.org/blog)** [Blog] — Research blog from Google's Magenta project covering generative models for music and art, including MusicVAE, Magenta Studio, and related tools.
+- **[Hugging Face Audio Blog](https://huggingface.co/blog/tag/audio)** [Blog] — Hugging Face's audio-tagged blog posts covering open-source audio and music AI models, tutorials, and model releases. Practical implementation focus.
+- **[Jordi Pons's Site](https://jordipons.me/)** [Personal Blog] — Personal site of Jordi Pons (Stability AI / Harmonai), with research publications, teaching materials, and opinion pieces on deep learning for music. *People: Jordi Pons.*
+- **[Justin Salamon's Site](https://justinsalamon.com/)** [Personal Blog] — Personal site of Justin Salamon (Adobe Research), with research on environmental sound recognition, music analysis, and machine listening. Includes papers and datasets. *People: Justin Salamon.*
+- **[LALAL.AI Blog](https://www.lalal.ai/blog/)** [Blog] — Blog from the LALAL.AI team covering AI audio stem separation techniques, neural audio processing, and music source isolation using transformer models.
+- **[LANDR Blog](https://blog.landr.com/)** [Blog] — Blog from LANDR covering AI-powered audio mastering algorithms, mixing techniques, and machine learning approaches to music production and audio quality.
+- **[Mubert Blog](https://mubert.com/blog/)** [Blog] — Blog covering generative music APIs, text-to-music techniques, and developer guides for building AI music generation applications.
+- **[Sony CSL Paris Music Team Blog](https://cslmusicteam.sony.fr/)** [Blog] — Research blog of the Sony Computer Science Laboratories Paris music team, covering AI-assisted music production, generative models, and creative tools like DrumGAN and Diff-A-Riff.
+- **[Spotify Engineering Blog](https://engineering.atspotify.com/)** [Blog] — Spotify's engineering blog covering large-scale systems, recommendation, audio analysis, and music ML. Distinct from the research blog and more implementation-focused.
+- **[Spotify Research Blog](https://research.atspotify.com/)** [Blog] — Spotify's research publication hub covering music recommendation, audio understanding, NLP, and user behaviour. Includes papers, datasets, and open-source releases.
+
+### 📬 Substacks
+
+- **[Art in Tech](https://artintech.substack.com/)** [Substack] — Newsletter by Jordi Pons (Stability AI / Harmonai) on generative AI for music and audio, with technical explanations of research systems and discussions on creative technology. *People: Jordi Pons.*
+- **[Coding in Tune](https://codingintune.substack.com/)** [Substack] — Newsletter by Wen Qing Lim exploring music computing topics including beat tracking, pitch recognition, and music AI through data science projects and reflections on creativity. *People: Wen Qing Lim.*
 
 ---
 
@@ -126,29 +154,6 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[Music Ally Focus](https://musically.com/music-ally-podcast/)** — Music Ally's podcast analysing key music industry and music-technology stories in depth, hosted by managing editor Joe Sparrow with expert guests. *People: Joe Sparrow.*
 - **[Music Tectonics Podcast](https://www.musictectonics.com/podcast)** — Weekly podcast covering music technology, business, and innovation hosted by Dmitri Vietze. Companion to the annual Music Tectonics conference. *People: Dmitri Vietze.*
 - **[The Sound of AI](https://thesoundofai.com/)** — YouTube channel and podcast-format show by Valerio Velardo covering deep learning for audio, music AI research, and careers in the field. Includes tutorial series and researcher interviews. *People: Valerio Velardo.*
-
----
-
-## ✍️ Blogs
-
-- **[Brian McFee's Site](https://bmcfee.github.io/)** [Personal] — Personal site of Brian McFee (NYU MARL), creator of Librosa. Includes research publications, course materials, and posts on music signal processing and machine learning. *People: Brian McFee.*
-- **[Chris Donahue's Site](https://chrisdonahue.com/)** [Personal] — Personal site of Chris Donahue (CMU), covering research on generative models for music and audio. Includes papers, demos, and technical blog posts. *People: Chris Donahue.*
-- **[Christian Steinmetz's Site](https://christiansteinmetz.com/)** [Personal] — Personal site of Christian Steinmetz (Suno), with in-depth tutorials on audio deep learning, research publications, and notes on music production and signal processing. *People: Christian Steinmetz.*
-- **[Google Magenta Blog](https://magenta.tensorflow.org/blog)** [Industry] — Research blog from Google's Magenta project covering generative models for music and art, including MusicVAE, Magenta Studio, and related tools.
-- **[Hugging Face Audio Blog](https://huggingface.co/blog/tag/audio)** [Industry] — Hugging Face's audio-tagged blog posts covering open-source audio and music AI models, tutorials, and model releases. Practical implementation focus.
-- **[Jordi Pons's Site](https://jordipons.me/)** [Personal] — Personal site of Jordi Pons (Stability AI / Harmonai), with research publications, teaching materials, and opinion pieces on deep learning for music. *People: Jordi Pons.*
-- **[Justin Salamon's Site](https://justinsalamon.com/)** [Personal] — Personal site of Justin Salamon (Adobe Research), with research on environmental sound recognition, music analysis, and machine listening. Includes papers and datasets. *People: Justin Salamon.*
-- **[AIVA Blog](https://blog.aiva.ai/)** [Industry] — Technical blog from AIVA covering AI music composition research, transformer-based foundation models, neural audio codecs, and music quality assessment.
-- **[Art in Tech](https://artintech.substack.com/)** [Personal] — Newsletter by Jordi Pons (Stability AI / Harmonai) on generative AI for music and audio, with technical explanations of research systems and discussions on creative technology. *People: Jordi Pons.*
-- **[AudioShake Blog](https://www.audioshake.ai/blog)** [Industry] — Technical blog on AI-powered music source separation, covering stem isolation benchmarks, real-time processing, and applications in film and broadcast licensing.
-- **[Coding in Tune](https://codingintune.substack.com/)** [Personal] — Newsletter by Wen Qing Lim exploring music computing topics including beat tracking, pitch recognition, and music AI through data science projects and reflections on creativity. *People: Wen Qing Lim.*
-- **[Deezer Engineering Blog](https://deezer.io/)** [Industry] — Engineering blog covering Deezer's work on music recommendation, audio signal processing, machine learning infrastructure, and open-source projects including Spleeter.
-- **[LALAL.AI Blog](https://www.lalal.ai/blog/)** [Industry] — Blog from the LALAL.AI team covering AI audio stem separation techniques, neural audio processing, and music source isolation using transformer models.
-- **[LANDR Blog](https://blog.landr.com/)** [Industry] — Blog from LANDR covering AI-powered audio mastering algorithms, mixing techniques, and machine learning approaches to music production and audio quality.
-- **[Mubert Blog](https://mubert.com/blog/)** [Industry] — Blog covering generative music APIs, text-to-music techniques, and developer guides for building AI music generation applications.
-- **[Sony CSL Paris Music Team Blog](https://cslmusicteam.sony.fr/)** [Industry] — Research blog of the Sony Computer Science Laboratories Paris music team, covering AI-assisted music production, generative models, and creative tools like DrumGAN and Diff-A-Riff.
-- **[Spotify Engineering Blog](https://engineering.atspotify.com/)** [Industry] — Spotify's engineering blog covering large-scale systems, recommendation, audio analysis, and music ML. Distinct from the research blog and more implementation-focused.
-- **[Spotify Research Blog](https://research.atspotify.com/)** [Industry] — Spotify's research publication hub covering music recommendation, audio understanding, NLP, and user behaviour. Includes papers, datasets, and open-source releases.
 
 ---
 
