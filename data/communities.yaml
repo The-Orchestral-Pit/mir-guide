@@ -44,6 +44,15 @@
   added: 2026-05-23
   verified: 2026-05-23
 
+- name: Munich Music Labs
+  url: https://munichmusiclabs.com/
+  description: "Student initiative at TU Munich bridging AI and music, connecting Bachelor's to PhD students, researchers, and industry partners through collaborative projects and events like HACKATUNE."
+  source_type: community
+  region: europe
+  topics: [general-mir, generation]
+  added: 2026-05-24
+  verified: 2026-05-24
+
 - name: WIMIR
   url: https://wimir.wordpress.com/
   description: "Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference."
