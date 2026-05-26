@@ -120,7 +120,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[Chris Donahue's Site](https://chrisdonahue.com/)** [Personal Blog] — Personal site of Chris Donahue (CMU), covering research on generative models for music and audio. Includes papers, demos, and technical blog posts. *People: Chris Donahue.*
 - **[Christian Steinmetz's Site](https://christiansteinmetz.com/)** [Personal Blog] — Personal site of Christian Steinmetz (Suno), with in-depth tutorials on audio deep learning, research publications, and notes on music production and signal processing. *People: Christian Steinmetz.*
 - **[Google Magenta Blog](https://magenta.tensorflow.org/blog)** [Blog] — Research blog from Google's Magenta project covering generative models for music and art, including MusicVAE, Magenta Studio, and related tools.
-- **[Hugging Face Audio Blog](https://huggingface.co/blog/tag/audio)** [Blog] — Hugging Face's audio-tagged blog posts covering open-source audio and music AI models, tutorials, and model releases. Practical implementation focus.
+- **[Hugging Face Audio Blog](https://huggingface.co/blog?tag=audio)** [Blog] — Hugging Face's audio-tagged blog posts covering open-source audio and music AI models, tutorials, and model releases. Practical implementation focus.
 - **[Jordi Pons's Site](https://jordipons.me/)** [Personal Blog] — Personal site of Jordi Pons (Stability AI / Harmonai), with research publications, teaching materials, and opinion pieces on deep learning for music. *People: Jordi Pons.*
 - **[Justin Salamon's Site](https://justinsalamon.com/)** [Personal Blog] — Personal site of Justin Salamon (Adobe Research), with research on environmental sound recognition, music analysis, and machine listening. Includes papers and datasets. *People: Justin Salamon.*
 - **[LALAL.AI Blog](https://www.lalal.ai/blog/)** [Blog] — Blog from the LALAL.AI team covering AI audio stem separation techniques, neural audio processing, and music source isolation using transformer models.
@@ -181,4 +181,4 @@ Code (scripts and workflows) is [MIT licensed](LICENSE). The curated content in 
 
 ---
 
-*Last built: 2026-05-24*
+*Last built: 2026-05-26*

@@ -78,7 +78,7 @@
   verified: 2026-05-23
 
 - name: Hugging Face Audio Blog
-  url: https://huggingface.co/blog/tag/audio
+  url: https://huggingface.co/blog?tag=audio
   description: "Hugging Face's audio-tagged blog posts covering open-source audio and music AI models, tutorials, and model releases. Practical implementation focus."
   source_type: industry
   pub_format: blog
