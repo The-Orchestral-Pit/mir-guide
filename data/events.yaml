@@ -1,5 +1,29 @@
 # Sorted by event_type, then alphabetical by name
 
+# --- conference ---
+
+- name: DAFx — Digital Audio Effects Conference
+  url: https://www.dafx.de/
+  description: "Annual academic conference on digital audio effects, covering spectral processing, synthesis, spatial audio, and machine learning for audio. Co-located with workshops and demonstrations."
+  source_type: community
+  event_type: conference
+  region: global
+  recurrence: annual
+  topics: [analysis, synthesis]
+  added: 2026-05-26
+  verified: 2026-05-26
+
+- name: ISMIR — International Society for Music Information Retrieval Conference
+  url: https://ismir.net/
+  description: "Primary annual conference for music information retrieval research, covering audio analysis, music generation, recommendation, transcription, and related topics. Includes tutorials, workshops, and a lab showcase."
+  source_type: community
+  event_type: conference
+  region: global
+  recurrence: annual
+  topics: [general-mir]
+  added: 2026-05-26
+  verified: 2026-05-26
+
 # --- festival ---
 
 - name: Ars Electronica
