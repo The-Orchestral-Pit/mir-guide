@@ -51,6 +51,24 @@
   added: 2026-05-23
   verified: 2026-05-23
 
+- name: KAIST GCT634 — Machine Learning for Music
+  url: https://mac.kaist.ac.kr/~juhan/gct634/index.html
+  description: "Graduate course materials by Juhan Nam (KAIST) covering machine learning techniques applied to music, including deep learning for audio, music information retrieval, and music generation."
+  source_type: academic
+  topics: [general-mir, analysis, generation]
+  people: [Juhan Nam]
+  added: 2026-05-26
+  verified: 2026-05-26
+
+- name: Deep Learning 101 for Audio-based MIR
+  url: https://geoffroypeeters.github.io/deeplearning-101-audiomir_book
+  description: "Interactive online book by Geoffroy Peeters (IRCAM) accompanying the ISMIR 2024 tutorial. Covers deep learning architectures and training strategies for music information retrieval tasks."
+  source_type: academic
+  topics: [general-mir, analysis]
+  people: [Geoffroy Peeters]
+  added: 2026-05-26
+  verified: 2026-05-26
+
 - name: musicinformationretrieval.com
   url: https://musicinformationretrieval.com/
   description: "Interactive Jupyter notebooks by Iran Roman (CCRMA) covering core MIR topics including feature extraction, beat tracking, chord recognition, and source separation."

@@ -48,6 +48,8 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 
 ### 🎤 Conferences
 
+- **[DAFx — Digital Audio Effects Conference](https://www.dafx.de/)** — Annual academic conference on digital audio effects, covering spectral processing, synthesis, spatial audio, and machine learning for audio. Co-located with workshops and demonstrations.
+- **[ISMIR — International Society for Music Information Retrieval Conference](https://ismir.net/)** — Primary annual conference for music information retrieval research, covering audio analysis, music generation, recommendation, transcription, and related topics. Includes tutorials, workshops, and a lab showcase.
 
 ### 🎉 Festivals
 
@@ -152,6 +154,8 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[intro2ddsp](https://intro2ddsp.github.io/)** — Online tutorial by Ben Hayes introducing differentiable digital signal processing, covering the principles and practical applications of gradient-based DSP in music and audio. *People: Ben Hayes.*
 - **[ISMIR Tutorials Archive](https://ismir.net/resources/tutorials/)** — Archive of tutorials presented at the annual ISMIR conference, spanning MIR fundamentals to advanced topics in deep learning, evaluation, and multimodal music understanding.
 - **[KAIST CTP431 — Fundamentals of Computer Music](https://mac.kaist.ac.kr/~juhan/ctp431/index.html)** — Open course materials by Juhan Nam (KAIST) covering music signal processing, MIDI, synthesis, and machine learning for music. A foundational resource for the GCT634 graduate course. *People: Juhan Nam.*
+- **[KAIST GCT634 — Machine Learning for Music](https://mac.kaist.ac.kr/~juhan/gct634/index.html)** — Graduate course materials by Juhan Nam (KAIST) covering machine learning techniques applied to music, including deep learning for audio, music information retrieval, and music generation. *People: Juhan Nam.*
+- **[Deep Learning 101 for Audio-based MIR](https://geoffroypeeters.github.io/deeplearning-101-audiomir_book)** — Interactive online book by Geoffroy Peeters (IRCAM) accompanying the ISMIR 2024 tutorial. Covers deep learning architectures and training strategies for music information retrieval tasks. *People: Geoffroy Peeters.*
 - **[musicinformationretrieval.com](https://musicinformationretrieval.com/)** — Interactive Jupyter notebooks by Iran Roman (CCRMA) covering core MIR topics including feature extraction, beat tracking, chord recognition, and source separation. *People: Iran Roman.*
 - **[The Sound of AI YouTube](https://www.youtube.com/c/ValerioVelardoTheSoundofAI)** — YouTube tutorial series by Valerio Velardo covering deep learning for audio, audio signal processing for machine learning, and careers in AI audio. Accessible entry point for beginners. *People: Valerio Velardo.*
 
