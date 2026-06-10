@@ -69,3 +69,12 @@
   topics: [general-mir, analysis]
   added: 2026-05-23
   verified: 2026-05-23
+
+- name: MIR & Music AI Grad Programs — Europe & Americas
+  url: https://docs.google.com/spreadsheets/d/1Lbujh4a8CB8Wf2SPzDxxbXTSyZOglhak16QK_lEac5o/edit?usp=sharing
+  description: "Community spreadsheet of graduate programs in music technology and MIR across Europe and North America, listing advisors, departments, and institutions at schools including KTH, UPF, NYU, MIT, CMU, and Georgia Tech."
+  source_type: community
+  region: global
+  topics: [general-mir]
+  added: 2026-06-10
+  verified: 2026-06-10

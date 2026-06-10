@@ -51,3 +51,12 @@
   topics: [general-mir]
   added: 2026-05-23
   verified: 2026-05-23
+
+- name: Music Co-Creative AI Reading Group
+  url: https://mclemcrew.github.io/music-ai-reading-group/
+  description: "Weekly online reading group analyzing ML papers on music synthesis, transcription, and generative models, with interactive session notes, audio demos, and PyTorch implementations posted after each meeting."
+  source_type: community
+  region: global
+  topics: [general-mir, analysis, generation, synthesis, transcription]
+  added: 2026-06-10
+  verified: 2026-06-10
