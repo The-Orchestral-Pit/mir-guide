@@ -86,3 +86,31 @@
   people: [Valerio Velardo]
   added: 2026-05-23
   verified: 2026-05-23
+
+- name: Hugging Face Audio Course
+  url: https://huggingface.co/learn/audio-course/chapter0/introduction
+  description: "Free online course covering audio classification, automatic speech recognition, and music generation using the Hugging Face Transformers library and Datasets."
+  source_type: industry
+  topics: [general-mir, analysis, generation]
+  added: 2026-06-10
+  verified: 2026-06-10
+
+- name: PAT 463/563 — Music and AI (University of Michigan)
+  url: https://hermandong.com/teaching/pat463_563_fall2025/
+  description: "Open course materials by Herman Dong at the University of Michigan exploring the intersections of music and artificial intelligence, from signal processing to generative models."
+  source_type: academic
+  topics: [general-mir, analysis, generation]
+  people: [Herman Dong]
+  institution: University of Michigan
+  added: 2026-06-10
+  verified: 2026-06-10
+
+- name: PAT 464/564 — Generative AI for Music and Audio Creation (University of Michigan)
+  url: https://hermandong.com/teaching/pat464_564_winter2026/
+  description: "Advanced course by Herman Dong at the University of Michigan on generative AI techniques applied to music and sound production."
+  source_type: academic
+  topics: [generation, synthesis]
+  people: [Herman Dong]
+  institution: University of Michigan
+  added: 2026-06-10
+  verified: 2026-06-10

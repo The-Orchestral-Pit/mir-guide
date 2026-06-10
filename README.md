@@ -41,6 +41,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[The Sound of AI Slack](https://valeriovelardo.com/the-sound-of-ai-community/)** — Largest AI-audio Slack community with approximately 9,000 members. Covers deep learning for audio, music generation, and careers in AI audio engineering.
 - **[Munich Music Labs](https://munichmusiclabs.com/)** — Student initiative at TU Munich bridging AI and music, connecting Bachelor's to PhD students, researchers, and industry partners through collaborative projects and events like HACKATUNE.
 - **[WIMIR](https://wimir.wordpress.com/)** — Widening Inclusion in Music Information Retrieval — an ISMIR initiative promoting diversity in the field through a Google Group, annual mentoring program, and workshop at each ISMIR conference.
+- **[Music Co-Creative AI Reading Group](https://mclemcrew.github.io/music-ai-reading-group/)** — Weekly online reading group analyzing ML papers on music synthesis, transcription, and generative models, with interactive session notes, audio demos, and PyTorch implementations posted after each meeting.
 
 ---
 
@@ -158,6 +159,9 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[Deep Learning 101 for Audio-based MIR](https://geoffroypeeters.github.io/deeplearning-101-audiomir_book)** — Interactive online book by Geoffroy Peeters (IRCAM) accompanying the ISMIR 2024 tutorial. Covers deep learning architectures and training strategies for music information retrieval tasks. *People: Geoffroy Peeters.*
 - **[musicinformationretrieval.com](https://musicinformationretrieval.com/)** — Interactive Jupyter notebooks by Iran Roman (CCRMA) covering core MIR topics including feature extraction, beat tracking, chord recognition, and source separation. *People: Iran Roman.*
 - **[The Sound of AI YouTube](https://www.youtube.com/c/ValerioVelardoTheSoundofAI)** — YouTube tutorial series by Valerio Velardo covering deep learning for audio, audio signal processing for machine learning, and careers in AI audio. Accessible entry point for beginners. *People: Valerio Velardo.*
+- **[Hugging Face Audio Course](https://huggingface.co/learn/audio-course/chapter0/introduction)** — Free online course covering audio classification, automatic speech recognition, and music generation using the Hugging Face Transformers library and Datasets.
+- **[PAT 463/563 — Music and AI (University of Michigan)](https://hermandong.com/teaching/pat463_563_fall2025/)** — Open course materials by Herman Dong at the University of Michigan exploring the intersections of music and artificial intelligence, from signal processing to generative models. *People: Herman Dong.*
+- **[PAT 464/564 — Generative AI for Music and Audio Creation (University of Michigan)](https://hermandong.com/teaching/pat464_564_winter2026/)** — Advanced course by Herman Dong at the University of Michigan on generative AI techniques applied to music and sound production. *People: Herman Dong.*
 
 ---
 
@@ -172,6 +176,7 @@ Each entry carries a `source_type` — academic, industry, community, or media �
 - **[awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics)** — Comprehensive list of MIR libraries, datasets, papers, and tools — the primary cross-reference for papers and software not covered in this guide.
 - **[awesome-python-scientific-audio](https://github.com/faroit/awesome-python-scientific-audio)** — Curated list of Python libraries for scientific audio processing and music information retrieval, maintained by Fabian-Robert Stöter.
 - **[multimodal-ml-music](https://github.com/ilaria-manco/multimodal-ml-music)** — Reading list for multimodal machine learning applied to music, covering cross-modal retrieval, captioning, and generation.
+- **[MIR & Music AI Grad Programs — Europe & Americas](https://docs.google.com/spreadsheets/d/1Lbujh4a8CB8Wf2SPzDxxbXTSyZOglhak16QK_lEac5o/edit?usp=sharing)** — Community spreadsheet of graduate programs in music technology and MIR across Europe and North America, listing advisors, departments, and institutions at schools including KTH, UPF, NYU, MIT, CMU, and Georgia Tech.
 
 ---
 
@@ -185,4 +190,4 @@ Code (scripts and workflows) is [MIT licensed](LICENSE). The curated content in 
 
 ---
 
-*Last built: 2026-05-26*
+*Last built: 2026-06-10*
